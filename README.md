@@ -11,8 +11,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0275-h-index-ii](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0275-h-index-ii) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Binary Search
 |  |
 | ------- |
 | [0275-h-index-ii](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0275-h-index-ii) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/2226-maximum-candies-allocated-to-k-children) |
 <!---LeetCode Topics End-->
