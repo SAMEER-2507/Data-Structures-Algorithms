@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0275-h-index-ii](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0410-split-array-largest-sum) |
+| [0692-top-k-frequent-words](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Binary Search
 |  |
@@ -53,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -67,12 +70,23 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
+## String
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
