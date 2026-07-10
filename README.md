@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Binary Search
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0275-h-index-ii](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0658-find-k-closest-elements) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Dynamic Programming
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -69,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
 |  |
 | ------- |
