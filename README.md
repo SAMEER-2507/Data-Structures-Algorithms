@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0410-split-array-largest-sum) |
+| [0767-reorganize-string](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0767-reorganize-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Heap (Priority Queue)
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0767-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -95,10 +99,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0767-reorganize-string) |
 ## String
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0767-reorganize-string) |
 ## Trie
 |  |
 | ------- |
