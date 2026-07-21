@@ -1,27 +1,34 @@
 class Solution {
 public:
-int fun(vector<vector<int>>& matrix,int n,int m,int guess){
-    int row=n-1,col=0,count=0;
-    while(row>=0&&col<m){
-        if(matrix[row][col]<=guess){
-            count=count+row+1;
-            col++;
-        }else{
-            row--;
-        }
+class node{
+    public:
+    int value;
+    int row;
+    int col;
+    node(int v,int r,int c){
+        value=v;
+        row=r;
+        col=c;
     }
-    return count;
-}
+};
+struct cmp{
+    bool operator()(const node& a,const node& b){
+        return a.value>b.value;
+    }
+};
     int kthSmallest(vector<vector<int>>& matrix, int k) {
-        int n=matrix.size(),m=matrix[0].size();
-        int low=matrix[0][0],high=matrix[n-1][m-1],res=-1;
-        while(low<=high){
-            int guess=low+(high-low)/2;
-            if(fun(matrix,n,m,guess)<k){
-                low=guess+1;
-            }else{
-                res=guess;
-                high=guess-1;
+        priority_queue<node,vector<node>,cmp> pq;
+        int n=matrix.size();
+        for(int i=0;i<n;i++){
+            pq.push({matrix[i][0],i,0});
+        }
+        int res=0;
+        while(k--){
+            node curr=pq.top();
+            pq.pop();
+            res=curr.value;
+            if(curr.col<n-1){
+                pq.push({matrix[curr.row][curr.col+1],curr.row,curr.col+1});
             }
         }
         return res;
