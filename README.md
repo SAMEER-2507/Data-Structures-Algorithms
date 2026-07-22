@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0502-ipo) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0502-ipo) |
@@ -129,9 +131,18 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0658-find-k-closest-elements) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
