@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Array
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0295-find-median-from-data-stream) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
