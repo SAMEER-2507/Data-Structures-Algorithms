@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0692-top-k-frequent-words](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0767-reorganize-string) |
 ## Trie
@@ -165,4 +167,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
