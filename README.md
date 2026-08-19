@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0951-flip-equivalent-binary-trees) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
@@ -238,13 +241,16 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
