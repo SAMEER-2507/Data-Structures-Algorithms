@@ -22,10 +22,13 @@ void fun(TreeNode* root,int sum,vector<int> tmp,int target){
         if(sum==target){
             res.push_back(tmp);
         }
+        tmp.pop_back();
         return;
     }
     fun(root->left,sum,tmp,target);
     fun(root->right,sum,tmp,target);
+    tmp.pop_back();
+    return;
 }
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
         vector<int> tmp;
