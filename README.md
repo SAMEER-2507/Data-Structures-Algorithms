@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0973-k-closest-points-to-origin](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1631-path-with-minimum-effort) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Binary Search
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1631-path-with-minimum-effort) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Dynamic Programming
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1631-path-with-minimum-effort) |
 ## Sorting
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0785-is-graph-bipartite](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0785-is-graph-bipartite) |
 | [0951-flip-equivalent-binary-trees](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1631-path-with-minimum-effort](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -299,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0958-check-completeness-of-a-binary-tree](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1631-path-with-minimum-effort](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1631-path-with-minimum-effort) |
 ## String Matching
 |  |
 | ------- |
@@ -341,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -363,4 +370,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
