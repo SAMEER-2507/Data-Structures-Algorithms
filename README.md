@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0630-course-schedule-iii](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
+| [0778-swim-in-rising-water](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0658-find-k-closest-elements) |
+| [0778-swim-in-rising-water](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0778-swim-in-rising-water) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1631-path-with-minimum-effort) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0778-swim-in-rising-water](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1631-path-with-minimum-effort) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1631-path-with-minimum-effort) |
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0572-subtree-of-another-tree](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0785-is-graph-bipartite) |
 | [0951-flip-equivalent-binary-trees](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -300,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0994-rotting-oranges) |
@@ -346,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -370,5 +377,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1631-path-with-minimum-effort) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
