@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0410-split-array-largest-sum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Greedy
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0743-network-delay-time](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1631-path-with-minimum-effort) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0743-network-delay-time](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0951-flip-equivalent-binary-trees](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1631-path-with-minimum-effort](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1631-path-with-minimum-effort) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0743-network-delay-time](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -373,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
