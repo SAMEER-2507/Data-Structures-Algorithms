@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0509-fibonacci-number) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
@@ -405,5 +407,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
