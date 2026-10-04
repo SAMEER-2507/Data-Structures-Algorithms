@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0692-top-k-frequent-words](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0767-reorganize-string) |
+| [1143-longest-common-subsequence](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -411,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0070-climbing-stairs](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0509-fibonacci-number) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
