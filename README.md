@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0200-number-of-islands) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0410-split-array-largest-sum) |
