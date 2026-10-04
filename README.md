@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0198-house-robber) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0973-k-closest-points-to-origin) |
@@ -417,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1143-longest-common-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
