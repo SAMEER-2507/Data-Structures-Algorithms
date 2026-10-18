@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0692-top-k-frequent-words) |
 | [0778-swim-in-rising-water](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0778-swim-in-rising-water) |
+| [0860-lemonade-change](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0860-lemonade-change) |
 | [0973-k-closest-points-to-origin](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0502-ipo](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0767-reorganize-string) |
+| [0860-lemonade-change](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0860-lemonade-change) |
 ## Prefix Sum
 |  |
 | ------- |
