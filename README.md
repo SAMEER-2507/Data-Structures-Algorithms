@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0658-find-k-closest-elements) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0767-reorganize-string) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0455-assign-cookies](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0658-find-k-closest-elements) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0295-find-median-from-data-stream) |
+| [0455-assign-cookies](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
@@ -437,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0062-unique-paths) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
