@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0055-jump-game](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/SAMEER-2507/Data-Structures-Algorithms/tree/master/0455-assign-cookies) |
